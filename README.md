@@ -17,5 +17,5 @@ I used the Google Sheets to filter and assort the data.
 
 I wanted to visualise the data better using line graph, however, that was not possible with the Visualising tools that I know. The major issue was the number range for number of times fines paid and the amount of fines paid. 
 
-Link for the story - https://rashimishhra.github.io/fines_by_coib_2014-25/
+Link for the story - https://rashimisra.github.io/fines_by_coib_2014-25/
 
